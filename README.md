@@ -2,10 +2,13 @@
 
 **PROJECT: Decentralized Star Notary Service Project** - For this project, you will create a DApp by adding functionality with your smart contract and deploy it on the public testnet.
 
-**Truffle v5.5.13**
-**ERC-721 Token Name: Star Notary Token**
-**ERC-721 Token Symbol: SNT**
-**Token Address: 0x5938065126464AA6f6eC2Ec5460610D5271f82D2**
+Truffle Version: 5.5.13
+
+ERC-721 Token Name: Star Notary Token
+
+ERC-721 Token Symbol: SNT
+
+Token Address: 0x5938065126464AA6f6eC2Ec5460610D5271f82D2
 
 ### Dependencies
 
